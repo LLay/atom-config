@@ -1,0 +1,41 @@
+"*":
+  "atom-package-deps":
+    ignored: []
+  "autocomplete-plus":
+    backspaceTriggersAutocomplete: true
+    confirmCompletion: "tab"
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 15
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "2117daab-17f0-415b-acf8-1cc642e4546d"
+  "git-blame":
+    columnWidth: 294
+  "go-plus":
+    format:
+      tool: "gofmt"
+    panel:
+      displayMode: "closed"
+      focusOnFailure: false
+    test:
+      coverageHighlightMode: "disabled"
+      runTestsOnSave: false
+      runTestsWithCoverage: false
+      runTestsWithShortFlag: false
+  hyperclick:
+    darwinTriggerKeys: "altKey"
+  linter:
+    lintOnChange: false
+  "linter-ui-default":
+    panelHeight: 204
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
+".python.regexp.source":
+  editor:
+    tabLength: 2
